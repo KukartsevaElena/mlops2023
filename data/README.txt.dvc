@@ -1,0 +1,5 @@
+outs:
+- md5: 249384d12cced3c1a8689d7e3c668814
+  size: 8
+  hash: md5
+  path: README.txt
