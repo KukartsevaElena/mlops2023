@@ -1,0 +1,4 @@
+stages:
+  get-features:
+    cmd: '" -d" data/movie_profit.csv -d modeling.ipynb " -o" data/pipelinedataset
+      " python3" modeling.ipynb data/movie_profit.csv'
