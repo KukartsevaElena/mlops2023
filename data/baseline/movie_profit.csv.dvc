@@ -1,0 +1,5 @@
+outs:
+- md5: 877019e2828d8e0d0e3795ebee67ecd7
+  size: 301960
+  hash: md5
+  path: movie_profit.csv
